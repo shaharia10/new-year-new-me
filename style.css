@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+/* header */
+.bg-img {
+    background-image: url("images/banner/banner1.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.banner {
+    padding: 216px 220px 365px 800px;
+    text-align: right;
+    color: #151414 ;
+}
+.banner .heading {
+    font-size: 65px;
+}
+.banner .content {
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+.banner .btn-primary {
+    background-color: orangered;
+    color: #ffffff;
+    height: 35px;
+    width: 100px;
+    text-align: center;
+    font-family: 'Work sans';
+    border-radius: 5px;
+}
+/* main  */
+
+.common .m-img {
+    display: flex;
+}
+.text-content {
+    text-align: center;
+}
+.text-heading {
+    font-size: 45px;
+    color: #151414;
+    padding-left: 30px;
+}
+.common .m-img .img {
+    padding: 50px 0 0 206px;
+}
+.common .m-img .text {
+    padding: 370px 322px 0 85px;
+}
+/* My plans  */
+.plans .plans-heading {
+    padding: 0 810px;
+    width: 165px;
+    padding-top: 100px;
+    font-size: 40px;
+    width: 350px;
+}
+.plans .plans-content {
+    display: flex;
+    text-align: center;
+}
+.plans-content {
+    padding-left: 500px;
+}
+.plans-description-2 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.plans-description-4 {
+    padding-left: 50px;
+}
